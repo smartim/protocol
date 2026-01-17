@@ -1,1 +1,1 @@
-* @openimsdk/go-code-review
+* @smartim/go-code-review

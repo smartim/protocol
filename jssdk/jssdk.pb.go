@@ -7,9 +7,9 @@
 package jssdk
 
 import (
-	conversation "github.com/openimsdk/protocol/conversation"
-	relation "github.com/openimsdk/protocol/relation"
-	sdkws "github.com/openimsdk/protocol/sdkws"
+	conversation "github.com/smartim/protocol/conversation"
+	relation "github.com/smartim/protocol/relation"
+	sdkws "github.com/smartim/protocol/sdkws"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -348,7 +348,7 @@ const file_jssdk_jssdk_proto_rawDesc = "" +
 	"\x0fconversationIDs\x18\x02 \x03(\tR\x0fconversationIDs\"}\n" +
 	"\x14GetConversationsResp\x12 \n" +
 	"\vunreadCount\x18\x01 \x01(\x03R\vunreadCount\x12C\n" +
-	"\rconversations\x18\x02 \x03(\v2\x1d.openim.jssdk.ConversationMsgR\rconversationsB%Z#github.com/openimsdk/protocol/jssdkb\x06proto3"
+	"\rconversations\x18\x02 \x03(\v2\x1d.openim.jssdk.ConversationMsgR\rconversationsB%Z#github.com/smartim/protocol/jssdkb\x06proto3"
 
 var (
 	file_jssdk_jssdk_proto_rawDescOnce sync.Once

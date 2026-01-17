@@ -7,8 +7,8 @@
 package msg
 
 import (
-	conversation "github.com/openimsdk/protocol/conversation"
-	sdkws "github.com/openimsdk/protocol/sdkws"
+	conversation "github.com/smartim/protocol/conversation"
+	sdkws "github.com/smartim/protocol/sdkws"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -4576,7 +4576,7 @@ const file_msg_msg_proto_rawDesc = "" +
 	"\x19SetUserConversationMaxSeq\x12(.openim.msg.SetUserConversationMaxSeqReq\x1a).openim.msg.SetUserConversationMaxSeqResp\x12p\n" +
 	"\x19SetUserConversationMinSeq\x12(.openim.msg.SetUserConversationMinSeqReq\x1a).openim.msg.SetUserConversationMinSeqResp\x12j\n" +
 	"\x17GetLastMessageSeqByTime\x12&.openim.msg.GetLastMessageSeqByTimeReq\x1a'.openim.msg.GetLastMessageSeqByTimeResp\x12O\n" +
-	"\x0eGetLastMessage\x12\x1d.openim.msg.GetLastMessageReq\x1a\x1e.openim.msg.GetLastMessageRespB#Z!github.com/openimsdk/protocol/msgb\x06proto3"
+	"\x0eGetLastMessage\x12\x1d.openim.msg.GetLastMessageReq\x1a\x1e.openim.msg.GetLastMessageRespB#Z!github.com/smartim/protocol/msgb\x06proto3"
 
 var (
 	file_msg_msg_proto_rawDescOnce sync.Once

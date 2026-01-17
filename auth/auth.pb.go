@@ -755,7 +755,7 @@ const file_auth_auth_proto_rawDesc = "" +
 	"\x0finvalidateToken\x12\x1f.openim.auth.invalidateTokenReq\x1a .openim.auth.invalidateTokenResp\x12E\n" +
 	"\n" +
 	"kickTokens\x12\x1a.openim.auth.kickTokensReq\x1a\x1b.openim.auth.kickTokensResp\x12W\n" +
-	"\x10getExistingToken\x12 .openim.auth.GetExistingTokenReq\x1a!.openim.auth.getExistingTokenRespB$Z\"github.com/openimsdk/protocol/authb\x06proto3"
+	"\x10getExistingToken\x12 .openim.auth.GetExistingTokenReq\x1a!.openim.auth.getExistingTokenRespB$Z\"github.com/smartim/protocol/authb\x06proto3"
 
 var (
 	file_auth_auth_proto_rawDescOnce sync.Once

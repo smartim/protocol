@@ -3,7 +3,7 @@ package third
 import (
 	"errors"
 
-	"github.com/openimsdk/protocol/constant"
+	"github.com/smartim/protocol/constant"
 )
 
 func (x *FcmUpdateTokenReq) Check() error {

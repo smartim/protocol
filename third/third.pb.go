@@ -7,7 +7,7 @@
 package third
 
 import (
-	sdkws "github.com/openimsdk/protocol/sdkws"
+	sdkws "github.com/smartim/protocol/sdkws"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -2195,7 +2195,7 @@ const file_third_third_proto_rawDesc = "" +
 	"\n" +
 	"DeleteLogs\x12\x1b.openim.third.DeleteLogsReq\x1a\x1c.openim.third.DeleteLogsResp\x12G\n" +
 	"\n" +
-	"SearchLogs\x12\x1b.openim.third.SearchLogsReq\x1a\x1c.openim.third.SearchLogsRespB%Z#github.com/openimsdk/protocol/thirdb\x06proto3"
+	"SearchLogs\x12\x1b.openim.third.SearchLogsReq\x1a\x1c.openim.third.SearchLogsRespB%Z#github.com/smartim/protocol/thirdb\x06proto3"
 
 var (
 	file_third_third_proto_rawDescOnce sync.Once

@@ -7,8 +7,8 @@
 package group
 
 import (
-	sdkws "github.com/openimsdk/protocol/sdkws"
-	wrapperspb "github.com/openimsdk/protocol/wrapperspb"
+	sdkws "github.com/smartim/protocol/sdkws"
+	wrapperspb "github.com/smartim/protocol/wrapperspb"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -4764,7 +4764,7 @@ const file_group_group_proto_rawDesc = "" +
 	"\x1eBatchGetIncrementalGroupMember\x12/.openim.group.BatchGetIncrementalGroupMemberReq\x1a0.openim.group.BatchGetIncrementalGroupMemberResp\x12n\n" +
 	"\x17getIncrementalJoinGroup\x12(.openim.group.getIncrementalJoinGroupReq\x1a).openim.group.getIncrementalJoinGroupResp\x12t\n" +
 	"\x19GetFullGroupMemberUserIDs\x12*.openim.group.GetFullGroupMemberUserIDsReq\x1a+.openim.group.GetFullGroupMemberUserIDsResp\x12b\n" +
-	"\x13GetFullJoinGroupIDs\x12$.openim.group.GetFullJoinGroupIDsReq\x1a%.openim.group.GetFullJoinGroupIDsRespB%Z#github.com/openimsdk/protocol/groupb\x06proto3"
+	"\x13GetFullJoinGroupIDs\x12$.openim.group.GetFullJoinGroupIDsReq\x1a%.openim.group.GetFullJoinGroupIDsRespB%Z#github.com/smartim/protocol/groupb\x06proto3"
 
 var (
 	file_group_group_proto_rawDescOnce sync.Once

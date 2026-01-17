@@ -7,8 +7,8 @@
 package relation
 
 import (
-	sdkws "github.com/openimsdk/protocol/sdkws"
-	wrapperspb "github.com/openimsdk/protocol/wrapperspb"
+	sdkws "github.com/smartim/protocol/sdkws"
+	wrapperspb "github.com/smartim/protocol/wrapperspb"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -3425,7 +3425,7 @@ const file_relation_relation_proto_rawDesc = "" +
 	"\x14getIncrementalBlacks\x12(.openim.relation.getIncrementalBlacksReq\x1a).openim.relation.getIncrementalBlacksResp\x12k\n" +
 	"\x14getFullFriendUserIDs\x12(.openim.relation.getFullFriendUserIDsReq\x1a).openim.relation.getFullFriendUserIDsResp\x12}\n" +
 	"\x1aNotificationUserInfoUpdate\x12..openim.relation.notificationUserInfoUpdateReq\x1a/.openim.relation.notificationUserInfoUpdateResp\x12V\n" +
-	"\rgetFriendInfo\x12!.openim.relation.getFriendInfoReq\x1a\".openim.relation.getFriendInfoRespB(Z&github.com/openimsdk/protocol/relationb\x06proto3"
+	"\rgetFriendInfo\x12!.openim.relation.getFriendInfoReq\x1a\".openim.relation.getFriendInfoRespB(Z&github.com/smartim/protocol/relationb\x06proto3"
 
 var (
 	file_relation_relation_proto_rawDescOnce sync.Once

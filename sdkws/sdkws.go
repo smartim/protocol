@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/openimsdk/protocol/constant"
+	"github.com/smartim/protocol/constant"
 )
 
 func (x *MsgData) Check() error {

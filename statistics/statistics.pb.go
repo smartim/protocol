@@ -24,7 +24,7 @@ var File_statistics_statistics_proto protoreflect.FileDescriptor
 
 const file_statistics_statistics_proto_rawDesc = "" +
 	"\n" +
-	"\x1bstatistics/statistics.proto\x12\x11openim.statisticsB*Z(github.com/openimsdk/protocol/statisticsb\x06proto3"
+	"\x1bstatistics/statistics.proto\x12\x11openim.statisticsB*Z(github.com/smartim/protocol/statisticsb\x06proto3"
 
 var file_statistics_statistics_proto_goTypes = []any{}
 var file_statistics_statistics_proto_depIdxs = []int32{

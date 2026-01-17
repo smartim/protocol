@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/openimsdk/protocol/util/datautil"
+	"github.com/smartim/protocol/util/datautil"
 )
 
 func (x *GetAllUserIDReq) Check() error {

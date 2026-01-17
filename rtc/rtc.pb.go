@@ -7,7 +7,7 @@
 package rtc
 
 import (
-	sdkws "github.com/openimsdk/protocol/sdkws"
+	sdkws "github.com/smartim/protocol/sdkws"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -2925,7 +2925,7 @@ const file_rtc_rtc_proto_rawDesc = "" +
 	"\x1fGetSignalInvitationInfoStartApp\x12..openim.rtc.GetSignalInvitationInfoStartAppReq\x1a/.openim.rtc.GetSignalInvitationInfoStartAppResp\x12g\n" +
 	"\x16SignalSendCustomSignal\x12%.openim.rtc.SignalSendCustomSignalReq\x1a&.openim.rtc.SignalSendCustomSignalResp\x12s\n" +
 	"\x1aGetSignalInvitationRecords\x12).openim.rtc.GetSignalInvitationRecordsReq\x1a*.openim.rtc.GetSignalInvitationRecordsResp\x12^\n" +
-	"\x13DeleteSignalRecords\x12\".openim.rtc.DeleteSignalRecordsReq\x1a#.openim.rtc.DeleteSignalRecordsRespB#Z!github.com/openimsdk/protocol/rtcb\x06proto3"
+	"\x13DeleteSignalRecords\x12\".openim.rtc.DeleteSignalRecordsReq\x1a#.openim.rtc.DeleteSignalRecordsRespB#Z!github.com/smartim/protocol/rtcb\x06proto3"
 
 var (
 	file_rtc_rtc_proto_rawDescOnce sync.Once

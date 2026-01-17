@@ -107,7 +107,7 @@ const file_errinfo_errinfo_proto_rawDesc = "" +
 	"\x04line\x18\x02 \x01(\rR\x04line\x12\x12\n" +
 	"\x04name\x18\x03 \x01(\tR\x04name\x12\x14\n" +
 	"\x05cause\x18\x04 \x01(\tR\x05cause\x12\x12\n" +
-	"\x04warp\x18\x05 \x03(\tR\x04warpB'Z%github.com/openimsdk/protocol/errinfob\x06proto3"
+	"\x04warp\x18\x05 \x03(\tR\x04warpB'Z%github.com/smartim/protocol/errinfob\x06proto3"
 
 var (
 	file_errinfo_errinfo_proto_rawDescOnce sync.Once

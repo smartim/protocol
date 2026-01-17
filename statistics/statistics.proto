@@ -1,4 +1,4 @@
 syntax = "proto3";
 package openim.statistics;
-option go_package = "github.com/openimsdk/protocol/statistics";
+option go_package = "github.com/smartim/protocol/statistics";
 
