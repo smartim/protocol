@@ -1,4 +1,4 @@
-require github.com/smartim/protocol v0.1.1
+module github.com/smartim/protocol
 
 go 1.22.7
 
