@@ -1,4 +1,4 @@
-module github.com/openimsdk/protocol
+require github.com/smartim/protocol v0.1.1
 
 go 1.22.7
 
